@@ -147,3 +147,4 @@ https://github.com/user-attachments/assets/c8f67c77-df8f-4ba1-817a-28ef3556a553
 ---
 
 > Made with 💀 spells, 🔥 fireballs, and Unity
+> You'll probably need to install assets yourself or replace missing parts because i don't know where there was from it was given to me for a course and i don't know therefore the copyright related.
