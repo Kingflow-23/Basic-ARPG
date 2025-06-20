@@ -112,15 +112,37 @@ Enemy Golems behave similarly to the player:
 
 ## 🎥 Included Video Clips
 
-Paste your demo video links here:
+- V0 ... 😂
 
-- `Movement_and_Environment.mp4` –  
-- `Camera.mp4` –  
-- `Enemy.mp4` –  
-- `Combat_and_Health.mp4` –  
-- `Animations.mp4` –  
-- `Win_Restart.mp4` –  
-- `Lose_Restart.mp4` –  
+https://github.com/user-attachments/assets/764a4e1e-2555-4eff-813c-bc03a5030f9f
+
+- `Movement_and_Environment.mp4` 
+
+https://github.com/user-attachments/assets/0393ca57-7b51-4870-9d89-dc3ec5564a11
+
+- `Camera.mp4`
+
+https://github.com/user-attachments/assets/48b6b704-48cc-467d-81be-a91b1a30bf59
+
+- `Enemy.mp4` 
+
+https://github.com/user-attachments/assets/4b8989f9-7df6-4341-84b3-66593e584987
+  
+- `Combat_and_Health.mp4` 
+
+https://github.com/user-attachments/assets/bc2c192d-b0b3-418c-8b6c-25cb6d488f85
+  
+- `Animations.mp4`
+
+https://github.com/user-attachments/assets/d5486cd9-ebde-444a-8ac2-9cb7590bde1e
+  
+- `Win_Restart.mp4`
+
+https://github.com/user-attachments/assets/f1ce7a66-5ca4-4648-af4d-ae8a9f177c8a
+
+- `Lose_Restart.mp4`
+
+https://github.com/user-attachments/assets/c8f67c77-df8f-4ba1-817a-28ef3556a553
 
 ---
 
